@@ -4,3 +4,4 @@ This is a repository consisting of my favorite programs that I have written. Nam
 
 Feel free to ask any questions regarding underlying concepts and code. Corrections are welcomed too.  
 
+*Will be stacking many more programs to the current collection.*
