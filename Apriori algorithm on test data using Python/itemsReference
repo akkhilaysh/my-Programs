@@ -1,0 +1,13 @@
+I1   -  Mango
+I2   -  Onion
+I3   -  Jar
+I4   -  Key-chain
+I5   -  Eggs
+I6   -  Chocolates
+I7   -  Nuts
+I8   -  Apple
+I9   -  Toothbrush
+I10  -  Corn
+I11  -  Knife
+
+Considerations are : min_support = 3, min_confidence = 70%

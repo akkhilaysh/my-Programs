@@ -1,0 +1,12 @@
+/*start of program*/
+
+class sample
+{
+public static void main(String args[])
+{
+System.out.println("Hello Java ");
+int a=2;
+}
+}
+
+//End of program
