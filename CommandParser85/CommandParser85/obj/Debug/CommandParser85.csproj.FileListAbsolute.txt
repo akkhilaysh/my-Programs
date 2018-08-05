@@ -1,0 +1,7 @@
+c:\users\akkhi\source\repos\CommandParser85\CommandParser85\bin\Debug\CommandParser85.exe.config
+c:\users\akkhi\source\repos\CommandParser85\CommandParser85\bin\Debug\CommandParser85.exe
+c:\users\akkhi\source\repos\CommandParser85\CommandParser85\bin\Debug\CommandParser85.pdb
+c:\users\akkhi\source\repos\CommandParser85\CommandParser85\obj\Debug\CommandParser85.csprojAssemblyReference.cache
+c:\users\akkhi\source\repos\CommandParser85\CommandParser85\obj\Debug\CommandParser85.csproj.CoreCompileInputs.cache
+c:\users\akkhi\source\repos\CommandParser85\CommandParser85\obj\Debug\CommandParser85.exe
+c:\users\akkhi\source\repos\CommandParser85\CommandParser85\obj\Debug\CommandParser85.pdb
