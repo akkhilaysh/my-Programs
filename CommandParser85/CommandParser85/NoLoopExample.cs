@@ -13,9 +13,7 @@ namespace CommandParser85
         public void NoLoop(List<string> list, string example_file)
         {
             var path = $"{Path.GetDirectoryName(example_file)}\\{Path.GetFileNameWithoutExtension(example_file)}Complete{Path.GetExtension(example_file)}";
-
             var commentPattern = @"\s*^(#.+)";
-
             List<string> new_list = new List<string>();
 
             foreach (var list_item in list)
@@ -28,7 +26,6 @@ namespace CommandParser85
 
             foreach (var list_item in new_list)
             {
-                //Console.WriteLine(list_item);
                 File.AppendAllText(path, list_item.ToString() + Environment.NewLine);
             }
         }
